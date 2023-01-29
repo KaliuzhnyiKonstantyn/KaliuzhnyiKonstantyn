@@ -1,4 +1,4 @@
-[![header](assets/bg.png)](https://github.com/KaliuzhnyiKonstantyn?tab=repositories)
+[![header](assets/bg_pic.png.png)](https://github.com/KaliuzhnyiKonstantyn?tab=repositories)
 
 ## 🧰 &nbsp;My toolbox
 
