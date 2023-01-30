@@ -1,5 +1,7 @@
 [![header](assets/bg_pic.png)](https://github.com/KaliuzhnyiKonstantyn?tab=repositories)
 
+## 📊 &nbsp;Stats
+
 [![KaliuzhnyiKonstantyn GitHub stats](https://github-readme-stats.vercel.app/api?username=KaliuzhnyiKonstantyn)](https://github.com/KaliuzhnyiKonstantyn/github-readme-stats)
 
 ## 🧰 &nbsp;My toolbox
