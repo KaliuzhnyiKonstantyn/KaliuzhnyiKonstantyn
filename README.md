@@ -4,4 +4,4 @@
 
 ## 🧰 &nbsp;My toolbox
 
-![html](assets/html-5.png) ![css](assets/css.png) ![github](assets/github.png) ![bootstrap](assets/bootstrap.png)
+![html](assets/html-5.png) ![css](assets/css.png) ![github](assets/github.png) ![bootstrap](assets/bootstrap.png) ![javascript](assets/javascript.png)
